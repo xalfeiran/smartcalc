@@ -1,0 +1,26 @@
+{
+  "translation": {
+    "hello":"Hola",
+    "my_functions" : "Mis formulas",
+    "new_function" : "Nueva formula",
+    "functions_list_empty" : "No hay formulas",
+
+    "cantidad" : "Cantidad",
+    "constant" : "Const",
+    "variable" : "Var",
+    "formula" : "Fórmula",
+    "definir_variable" : "Aceptar",
+    "variable_name" : "Nombre de la variable",
+    "select_operation" : "Seleccione una operación",
+    "select_storage" : "Seleccione un tipo de dato",
+    "calculated_result" : "Resultado",
+    "constant_value" : "Valor",
+    "salvar_formula" : "Guardar",
+    "nombre_formula" : "Nombre de la fórmula",
+    "formula_actual" : "Formula actual",
+    "aceptar_boton" : "Aceptar",
+    "limpiar_formulas" : "Limpiar formulas",
+    "confirm_delete" : "Limpiar formulas",
+    "confirm_delete_all" : "¿Está seguro que desea limpiar todas las formulas?"
+  }
+}
